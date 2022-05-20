@@ -6,6 +6,8 @@
 
 *A project for the Free Code Camp QA / Adv Node &amp; Express Certification - spec [here](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter)*
 
+[Live Demo](https://fcc-metricimpconverter.zenlex.repl.co/)
+
 A REST API for converting metric and imperial measurements based on arbitrary text input. 
 
 ### Table of Contents
